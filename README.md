@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @chandan-webdeveloper
+- 👋 Hi, I’m @chandan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-chandan-webdeveloper/chandan-webdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chandan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
